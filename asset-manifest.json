@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/frontcrud/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/frontcrud/static/js/main.647ead0c.chunk.js",
+    "main.js.map": "/frontcrud/static/js/main.647ead0c.chunk.js.map",
+    "runtime-main.js": "/frontcrud/static/js/runtime-main.163d349f.js",
+    "runtime-main.js.map": "/frontcrud/static/js/runtime-main.163d349f.js.map",
+    "static/css/2.00b8d662.chunk.css": "/frontcrud/static/css/2.00b8d662.chunk.css",
+    "static/js/2.50941af8.chunk.js": "/frontcrud/static/js/2.50941af8.chunk.js",
+    "static/js/2.50941af8.chunk.js.map": "/frontcrud/static/js/2.50941af8.chunk.js.map",
+    "index.html": "/frontcrud/index.html",
+    "precache-manifest.ddcf4c6cc8c92d879dc33c6a03e46078.js": "/frontcrud/precache-manifest.ddcf4c6cc8c92d879dc33c6a03e46078.js",
+    "service-worker.js": "/frontcrud/service-worker.js",
+    "static/css/2.00b8d662.chunk.css.map": "/frontcrud/static/css/2.00b8d662.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/frontcrud/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.50941af8.chunk.js.LICENSE.txt": "/frontcrud/static/js/2.50941af8.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/frontcrud/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/frontcrud/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/frontcrud/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.163d349f.js",
+    "static/css/2.00b8d662.chunk.css",
+    "static/js/2.50941af8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.647ead0c.chunk.js"
+  ]
+}
